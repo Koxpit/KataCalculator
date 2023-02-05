@@ -1,6 +1,6 @@
 package kata_calculator_test;
 
-public class NumberFactory {
+class NumberFactory {
     static Number getNumber(String number) {
         Number num;
 

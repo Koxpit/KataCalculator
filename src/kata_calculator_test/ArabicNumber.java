@@ -1,6 +1,6 @@
 package kata_calculator_test;
 
-public class ArabicNumber extends Number {
+class ArabicNumber extends Number {
 	ArabicNumber(String number) {
         this.number = Integer.parseInt(number);
         type = "arabic";

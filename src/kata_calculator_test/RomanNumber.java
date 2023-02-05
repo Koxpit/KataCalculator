@@ -2,7 +2,7 @@ package kata_calculator_test;
 
 import java.util.TreeMap;
 
-public class RomanNumber extends Number {
+class RomanNumber extends Number {
 	private final static TreeMap<Integer, String> map = new TreeMap<>();
 
     static {
